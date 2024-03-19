@@ -455,8 +455,8 @@ windows.forEach((window, index) => {
   //change wallpaper*****************************************************
   // An array of background images
 var images = [
-  "download (6).jpg",
-  "Night.jpg",
+  "/src/download (6).jpg",
+  "/src/Night.jpg",
   ""
 ];
 
